@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <h1>Smart Watch World</h1>
-
+      <Header></Header>
       <Routes>
        <Route path="/" element={<Home/>}></Route>
         <Route path="/reviews" element={<Reviews></Reviews>}></Route>
