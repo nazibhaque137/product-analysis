@@ -8,8 +8,8 @@ const Reviews = () => {
     
     return (
         <div>
-            <h3>Customer Reviews ({reviews.length})</h3> 
-
+            <h1>Customer Reviews ({reviews.length})</h1> 
+            <div className="reviews-container">
             {
                 reviews.map(review =><Review 
                 key={review.id} 
@@ -18,6 +18,7 @@ const Reviews = () => {
                     
                     )
             }      
+        </div>
         </div>
     );
 };

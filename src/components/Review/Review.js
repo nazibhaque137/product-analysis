@@ -1,4 +1,5 @@
 import React from 'react';
+import './Review.css';
 
 const Review = (props) => {
 
@@ -6,9 +7,9 @@ const Review = (props) => {
 
     return (
         <div className="review-container">
-            <h2>Name: {name}</h2>
-            <h2>Comment: {comment}</h2>
-            <h2>Rating: {rating}</h2>
+            <h3>Name: {name}</h3>
+            <h3>Comment: {comment}</h3>
+            <h3>Rating: {rating}</h3>
         </div>
     );
 };

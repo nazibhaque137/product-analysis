@@ -19,10 +19,10 @@ const Home = () => {
 
     return (
         <div>
-            <h2>Home</h2>
+            <h1>Home</h1>
             <Product></Product>
-            <h3>Customer Reviews ({reviews.length - 3})</h3> 
-
+            <h1>Customer Reviews ({reviews.length - 3})</h1> 
+            <div className="reviews-summary-container">
             {
                 reviews.slice(0, 3).map(review => <Review
                     key={review.id}
@@ -30,8 +30,11 @@ const Home = () => {
                 ></Review>
 
                 )
-            }     
+            }
+            <div className="showAllReviews-Btn">    
             <button onClick={showReviewDetail}>See All Reviews</button>
+                </div> 
+            </div>
             </div>
     );
 };
