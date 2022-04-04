@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "Jamil Rahman",
+        "review": "This product is just amazing to use!",
+        "rating": "4.3/5"
+    },
+    {
+        "id": "02",
+        "name": "Rita Haque",
+        "review": "I am using this product for a month and I'm loving it.",
+        "rating": "5/5"
+    },
+    {
+        "id": "03",
+        "name": "Mahadi Hasaan",
+        "review": "It's more than just a smartwatch",
+        "rating": "4.8/5"
+    },
+    {
+        "id": "04",
+        "name": "Hridoy Ahmed",
+        "review": "Perfection in a smart watch!",
+        "rating": "4.8/5"
+    },
+    {
+        "id": "05",
+        "name": "Maria Zaman",
+        "review": "The watch strap could've been better",
+        "rating": "3.5/5"
+    },
+    {
+        "id": "06",
+        "name": "Rajib Saha",
+        "review": "A good watch for workout freaks",
+        "rating": "4/5"
+    }
+]
