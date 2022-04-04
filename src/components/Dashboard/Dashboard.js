@@ -1,11 +1,16 @@
 import React from 'react';
+import ProductLineChart from '../ProductLineChart/ProductLineChart';
+import ProductBarChart from '../ProductBarChart/ProductBarChart';
 
-const Darshboard = () => {
+
+const Dashboard = () => {
     return (
         <div>
             <h2>Dashboard</h2>
+            <ProductLineChart></ProductLineChart>
+            <ProductBarChart></ProductBarChart>
         </div>
     );
 };
 
-export default Darshboard;
+export default Dashboard;
