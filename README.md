@@ -1,12 +1,13 @@
 Private Repository Link: https://github.com/programming-hero-web-course-4/product-analysis-website-nazibhaque137
+
 Live Site Link: https://superb-froyo-68bcd5.netlify.app/
 
 Things done in this React project: 
 
-⋅⋅* Created a Smart Watch review project whose description and image are shown in initial Home route
-⋅⋅* Created a Reviews route where Customer Reviews are shown that includes Customer name, comment and rating.
-⋅⋅* Created a Dashboard route where a Line Chart and a Bar Chart is shown based on given data
-⋅⋅* Created a Blogs route where two given questions are answered
+* Created a Smart Watch review project whose description and image are shown in initial Home route. And first three customer reviews are shown below.
+* Created a Reviews route where all Customer Reviews are shown that includes Customer name, comment and rating.
+* Created a Dashboard route where a Line Chart and a Bar Chart is shown based on given data
+* Created a Blogs route where two given questions are answered
 
 # Getting Started with Create React App
 
