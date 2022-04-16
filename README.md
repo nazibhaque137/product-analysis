@@ -4,8 +4,13 @@ Live Site Link: https://superb-froyo-68bcd5.netlify.app/
 
 Things done in this React project: 
 
+<<<<<<< HEAD
 * Created a Smart Watch review project whose description and image are shown in initial Home route. And first three customer reviews are shown below.
 * Created a Reviews route where all Customer Reviews are shown that includes Customer name, comment and rating.
+=======
+* Created a Smart Watch review project whose description and image are shown in initial Home route. And first three customer reviews are shown below it.
+* Created a Reviews route where Customer Reviews are shown that includes Customer name, comment and rating.
+>>>>>>> c9f2f0314846e2d3542bffec76c6e005f34b9277
 * Created a Dashboard route where a Line Chart and a Bar Chart is shown based on given data
 * Created a Blogs route where two given questions are answered
 
