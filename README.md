@@ -1,4 +1,4 @@
-Private Repository Link: https://github.com/programming-hero-web-course-4/product-analysis-website-nazibhaque137
+Website Name: NH Photography
 
 Live Site Link: https://superb-froyo-68bcd5.netlify.app/
 
