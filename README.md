@@ -1,4 +1,4 @@
-Website Name: NH Photography
+Website Name: Smart Watch World
 
 Live Site Link: https://superb-froyo-68bcd5.netlify.app/
 
